@@ -1,0 +1,10 @@
+name: OpenManhunt
+version: ${project.version}
+main: me.specnr.openmanhunt.OpenManhunt
+api-version: 1.16
+authors: [ Specnr ]
+description: An Open Source Minecraft Manhunt Plugin
+website: https://www.youtube.com/Specnr
+commands:
+  omh:
+    description: Starts an OpenManhunt game with given hunter
