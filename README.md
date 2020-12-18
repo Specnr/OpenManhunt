@@ -1,2 +1,3 @@
 # OpenManhunt
-An Open Source Minecraft Manhunt Plugin with 1.16 Nether support
+
+A simple Spigot plugin that plays the popular Minecraft Manhunt game with full 1.16 nether support.
